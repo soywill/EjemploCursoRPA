@@ -1791,9 +1791,9 @@
     "restore": {
       "projectUniqueName": "EjemploCurso",
       "projectName": "EjemploCurso",
-      "projectPath": "D:\\Will\\Platzi\\Curso RPA\\EjemploCurso\\.local",
+      "projectPath": "D:\\Will\\Platzi\\Curso RPA\\EjemploCursoGit\\.local",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\Will\\Platzi\\Curso RPA\\EjemploCurso\\.local"
+      "outputPath": "D:\\Will\\Platzi\\Curso RPA\\EjemploCursoGit\\.local"
     },
     "frameworks": {
       "net461": {
